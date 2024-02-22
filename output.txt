@@ -1,0 +1,11 @@
+{
+	record-name: "RecName1"
+	set-name: "SetName1"
+	fields-list:
+	[
+		"A"
+		"B"
+		"C"
+		"D"
+	]
+}
